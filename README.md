@@ -18,6 +18,7 @@
 5. Ultra Sonic Sensor
 6. Servo Motor
 7. Jumpers
+8. Switch 
 
 ## Libraries 
 
