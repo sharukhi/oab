@@ -12,8 +12,8 @@
 
 ## Items we used
 1. Arduino Uno R3
-2. Motor Driver
-3. Battries
+2. Motor Driver Shield L293D 
+3. Battries 
 4. Wheels
 5. Ultra Sonic Sensor
 6. Servo Motor
