@@ -19,7 +19,14 @@
 6. Servo Motor
 7. Jumpers
 
-<br>
+## Libraries 
+
+1. [AFMotor Library](https://learn.adafruit.com/adafruit-motor-shield/library-install)
+2. [NewPing Library](https://github.com/livetronic/Arduino-NewPing)
+3. [Servo Library](https://github.com/arduino-libraries/Servo.git)
+
+## Diagram
+<img src="/readme-essentials/diagram.jpg" width="600" height="auto">
 
 ## Apps and Tools
  &nbsp;  &nbsp; <a href="https://www.arduino.cc/en/software"><img src="/arduino-ide-logo.svg" width="40"></a>
