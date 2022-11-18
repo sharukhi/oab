@@ -1,7 +1,7 @@
 
 <div align="center">
   <p>
-      <img width="20%" src="https://user-images.githubusercontent.com/95465993/202638905-083910d2-4563-487e-840c-dc0190bbc627.svg">
+      <img width="20%" src="/arduino-icon.svg">
   </p>
   <b><h3> Arduino obstacle avoiding robot </h3></b>
   <p>Object Avoiding Robot using <a href="https://www.arduino.cc"> Arduino </a></p>
@@ -41,8 +41,12 @@
 ---
 
 <div align="center">
-<img src="/readme-essentials/LIFOD.jpg" width="300" height="auto">
+<img src="/readme-essentials/LIFOD.jpg" width="600" height="auto">
 
 
 
 </div>
+
+
+---
+**README inspired by [Janith3003 Arduino-Robot](https://github.com/Janith3003/Arduino-Robot)**
