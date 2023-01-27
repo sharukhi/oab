@@ -43,8 +43,15 @@
   <img src="/readme-essentials/RAD oa1.png" width="600">
 <br>
   <img src="/readme-essentials/RAD oa2.png" width="600">
-
 <br><br>
+
+
+ 
+
+
+
+
+
 
 ---
 
@@ -57,4 +64,10 @@
 
 
 ---
-**README inspired by [Janith3003 Arduino-Robot](https://github.com/Janith3003/Arduino-Robot)**
+
+
+## Credits
+
+*image source: [Janith3003 Arduino-Robot](https://github.com/Janith3003/Arduino-Robot)*
+
+
